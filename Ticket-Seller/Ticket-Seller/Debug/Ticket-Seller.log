@@ -1,0 +1,14 @@
+﻿  user.cpp
+i:\io\ticket-seller\ticket-seller\user.cpp(11): warning C4305: "argument": obcięcie z "int" do "const _Elem"
+          with
+          [
+              _Elem=char
+          ]
+i:\io\ticket-seller\ticket-seller\user.cpp(11): warning C4309: "argument": obcięcie stałej wartości
+i:\io\ticket-seller\ticket-seller\user.cpp(12): warning C4305: "argument": obcięcie z "int" do "const _Elem"
+          with
+          [
+              _Elem=char
+          ]
+i:\io\ticket-seller\ticket-seller\user.cpp(12): warning C4309: "argument": obcięcie stałej wartości
+  Ticket-Seller.vcxproj -> I:\IO\Ticket-Seller\Debug\Ticket-Seller.exe
